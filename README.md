@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jay 👋</h1>
  
 <p align="center">
-💻 Database Dev | 🌐 Power BI Developer | 🎨 ETL Developer | SSIS Report Development  
+💻 Database Dev | 🌐 Power BI Developer | 🔄 ETL Developer | 📊 SSIS Report Developer  
 </p>
  
 ---
