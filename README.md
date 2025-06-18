@@ -3,7 +3,7 @@
 <p align="center">
 💻 Database Dev | 🌐 Power BI Developer | 🔄 ETL Developer | 📊 SSIS Report Developer  
 </p>
- 
+
 ## 👨‍💻 About Me
 * 🧑‍💻 I'm Jay Patel – Highly experienced in database architecture, data warehousing, and ETL processes.
 * 🚀 Adept at delivering comprehensive data solutions across various platforms.
@@ -20,7 +20,7 @@
  
 ### Tools & Platforms
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,pycharm,visualstudio,azure,jira,postman,windows,,powerbi,ssis,ssrs" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,pycharm,visualstudio,azure,jira,postman,windows,powerbi,ssis,ssrs"/>
 </p>
  
 ### Currently Exploring
